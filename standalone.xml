@@ -1,0 +1,7 @@
+<property name="org.kie.server.user" value="anton"></property>
+<property name="org.kie.server.pwd" value="password1!"></property>
+<property name="org.kie.server.location" value="http://localhost:8080/kie-server/services/rest/server"></property>
+<property name="org.kie.server.controller" value="http://localhost:8080/kie-drools-wb/rest/controller"></property>
+<property name="org.kie.server.controller.user" value="kie"></property>
+<property name="org.kie.server.controller.pwd" value="kie"></property>
+<property name="org.kie.server.id" value="tomcat-kieserver"></property>
